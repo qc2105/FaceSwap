@@ -7,8 +7,8 @@ You will find a short presentation the program's capabilities in the video below
 
 ## How to use it ##
 To start the program you will have to run a file named zad2.py (Polish for exercise 2), which will require:
-  * Python 2.7 (I recommend Anaconda)
-  * OpenCV (I used 2.4.13)
+  * Python 3.6.6
+  * OpenCV 3.4.1
   * Numpy
   * dlib
   * pygame
