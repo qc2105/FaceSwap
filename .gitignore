@@ -8,6 +8,9 @@
 *.sln.docstates
 FaceSwap/*.pyc
 *.pyc
+*.dat
+settings.json
+eyeHandBlend.jpg
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
